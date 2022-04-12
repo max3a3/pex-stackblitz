@@ -1,0 +1,22 @@
+{
+  "name": "vite-starter",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "pex-cam": "^2.8.0",
+    "pex-context": "*",
+    "pex-gui": "^2.4.0",
+    "pex-io": "^2.1.0",
+    "pex-math": "^2.1.1",
+    "pex-random": "^1.0.1",
+    "primitive-cube": "^2.0.1",
+    "primitive-sphere": "^3.0.0",
+    "primitive-torus": "^1.0.4",
+    "vite": "^2.9.0"
+  }
+}
